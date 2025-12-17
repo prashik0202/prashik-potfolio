@@ -32,8 +32,8 @@ export const EXPERIENCE_INFO = [
       },
       {
         id: "proj2",
-        name: "Birla Opus - Defect Detection System",
-        description: "Led frontend development for the Birla Opus project. Collaborated with designers, backend engineers, and stakeholders to ensure smooth handoffs and timely releases. Built scalable and reusable components, following design system specifications and best practices.",
+        name: "Defect Detection System",
+        description: "Led frontend development for the Defect Detection System project. Collaborated with designers, backend engineers, and stakeholders to ensure smooth handoffs and timely releases. Built scalable and reusable components, following design system specifications and best practices.",
         techUsed: "ReactJs, Typescript, AWS"
       }
     ]
@@ -47,7 +47,7 @@ export const EXPERIENCE_INFO = [
       {
         id: "proj1",
         name: "WiseConnect - Job Application Platform",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab possimus voluptatibus quae quidem deserunt, nulla debitis quia aperiam ex aspernatur!",
+        description: "Contributed to the development of WiseConnect, a job application platform, by implementing user-friendly interfaces and ensuring responsive design across devices. Worked closely with backend developers to integrate APIs and optimize data flow within the application. Participated in code reviews and team meetings to maintain high code quality and align with project goals.",
         techUsed: "NextJs, ReactJs, NodeJs, Typescript, Azure"
       },
     ]
